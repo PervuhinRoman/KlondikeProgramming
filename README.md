@@ -14,13 +14,13 @@
 ### Содержание (Content)
 
 * **ru**
-  * [О проекте](о_проекте) 
-  * [Почему Klondike(клондайк)?](о_клондайке)
-  * [Контакты](контакты)
+  * [О проекте](#о_проекте) 
+  * [Почему Klondike(клондайк)?](#о_клондайке)
+  * [Контакты](#контакты)
 * **en**
-  * [About repo](about_project) 
-  * [Why Klondike?](about_klondike)
-  * [Contacts](contacts)
+  * [About repo](#about_project) 
+  * [Why Klondike?](#about_klondike)
+  * [Contacts](#contacts)
 
 ---
 
