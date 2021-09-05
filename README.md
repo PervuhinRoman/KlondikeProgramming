@@ -1,5 +1,6 @@
-# KlondikeProgramming
 <a name="о_проекте"></a> 
+# KlondikeProgramming
+
 *Klondike of algorithms and programming features*
 
 **ru**
@@ -23,9 +24,9 @@
   * [Contacts](#contacts)
 
 ---
-
-### 🏔 Почему Klondike(клондайк)?
 <a name="о_клондайке"></a> 
+### 🏔 Почему Klondike(клондайк)?
+
 
 **Клондайк** (англ. Klondike или Clondike) — регион, находящийся на территории Юкон, на северо-западе Канады, восточнее от границы с Аляской. 
 Клондайк стал известен из-за знаменитой Клондайкской золотой лихорадки ⛏💰, начавшейся в 1897 году и закончившейся двумя годами спустя. Несмотря на то, что сама лихорадка закончилась, золото здесь добывают и по сей день.
@@ -40,9 +41,9 @@
 *Это была история. Наш репозиторий тоже называется “Klondike”, а значит ты наверняка найдёшь здесь много интересного.*
 
 ---
-
-### 📫 Предложить свои алгоритмы, связаться с нами для сотрудничества, отзывов, предложений, просто написать :)
 <a name="контакты"></a> 
+### 📫 Предложить свои алгоритмы, связаться с нами для сотрудничества, отзывов, предложений, просто написать :)
+
 
   * VK: [Первухин Роман](https://vk.com/id469773080)
   * Telegram: @Klim5198
@@ -51,18 +52,18 @@
   * Email: rg.pervuhin5198@gmail.com
 
 ---
-
-**en**
 <a name="about_project"></a> 
+**en**
+
 
 This project, or rather the repository, is intended for people who study programming at school, university, etc. Or even for those “shabby rolls” who already work as programmers, but somehow need a hint.
 
 Hints mean the implementation of search and sorting algorithms in various programming languages, such as Java, Python, C ++, C #. In addition to the algorithms themselves and their commented-out code, there is documentation for each of them that will help you deal with the difficult moments of the implementation code.
 
 ---
-
-### 🏔 Why Klondike?
 <a name="about_klondike"></a> 
+### 🏔 Why Klondike?
+
 
 ** Klondike ** (English Klondike or Clondike) is a region located in the Yukon territory, in the northwest of Canada, east of the border with Alaska.
 The Klondike became famous for the famous Klondike Gold Rush ⛏💰, which began in 1897 and ended two years later. Despite the fact that the fever itself is over, gold is mined here to this day.
@@ -77,9 +78,9 @@ Sources:
 *It was history. Our repository is also called “klondike”, which means you will surely find a lot of interesting things here.*
 
 ---
-
-### 📫 Suggest your algorithms, contact us for cooperation, feedback, suggestions, just write :)
 <a name="contacts"> </a>
+### 📫 Suggest your algorithms, contact us for cooperation, feedback, suggestions, just write :)
+
 
   * VK: [Первухин Роман] (https://vk.com/id469773080)
   * Telegram: @ Klim5198
