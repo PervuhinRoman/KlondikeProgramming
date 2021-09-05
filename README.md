@@ -65,10 +65,10 @@ Hints mean the implementation of search and sorting algorithms in various progra
 ### 🏔 Why Klondike?
 
 
-** Klondike ** (English Klondike or Clondike) is a region located in the Yukon territory, in the northwest of Canada, east of the border with Alaska.
+**Klondike** (English Klondike or Clondike) is a region located in the Yukon territory, in the northwest of Canada, east of the border with Alaska.
 The Klondike became famous for the famous Klondike Gold Rush ⛏💰, which began in 1897 and ended two years later. Despite the fact that the fever itself is over, gold is mined here to this day.
  
-** Klondike Gold Rush ** (English Klondike Gold Rush) - unorganized massive gold mining in the Klondike region of Canada and the Alaska Peninsula at the end of the 19th century 🏕.
+**Klondike Gold Rush** (English Klondike Gold Rush) - unorganized massive gold mining in the Klondike region of Canada and the Alaska Peninsula at the end of the 19th century 🏕.
 The fever began after prospectors George Carmack, Jim Skoom, and Charlie Dawson discovered gold on August 16, 1896, at Bonanza Creek, which flows into the Klondike River. News of this quickly spread to the inhabitants of the Yukon River Basin. However, it took another year for the information to reach the mainstream. Gold was not exported until June 1897, when navigation opened and the ocean liners Excelsior and Portland accepted the cargo from the Klondike. The Excelsior arrived in San Francisco on July 15, 1897 with a cargo of about half a million dollars, arousing public interest. ⛴ When Portland arrived in Seattle two days later, a crowd greeted him. The newspapers reported half a ton of gold, but this was an understatement as the ship carried over a ton of metal 🚢.
 
 Sources:
