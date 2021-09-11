@@ -16,14 +16,24 @@
 
 * **ru**
   * [О проекте](#о_проекте) 
+  * [Как пользоваться?](#как_пользоваться)
   * [Почему Klondike(клондайк)?](#о_клондайке)
   * [Контакты](#контакты)
 * **en**
   * [About repo](#about_project) 
+  * [How to use?](#how_to_use)
   * [Why Klondike?](#about_klondike)
   * [Contacts](#contacts)
 
 ---
+<a name="как_пользоваться"></a> 
+### 📃 Как пользоваться?
+
+* В папке каждого алгоритма присутствует файл *AlgorithmsName.md*. В данном файле присутствует вся теория связанная с алгоритмом, полезные ссылки и примеры или тесты для программ.
+* В каждой папке реализации на конкретном языке программирования присутствует файл *LpAlgorithmsName.md*, в котором дублируется теория из 👆 + каждый язык программирования имеет свои синтаксические особенности или тонкости реализации, они то и разъясняются в данном файле.
+
+---
+
 <a name="о_клондайке"></a> 
 ### 🏔 Почему Klondike(клондайк)?
 
@@ -59,6 +69,14 @@
 This project, or rather the repository, is intended for people who study programming at school, university, etc. Or even for those “shabby rolls” who already work as programmers, but somehow need a hint.
 
 Hints mean the implementation of search and sorting algorithms in various programming languages, such as Java, Python, C ++, C #. In addition to the algorithms themselves and their commented-out code, there is documentation for each of them that will help you deal with the difficult moments of the implementation code.
+
+---
+
+<a name="how_to_use"></a> 
+### 📃 How to use?
+
+* In the folder of each algorithm there is a * AlgorithmsName.md * file. This file contains all the theory associated with the algorithm, useful links and examples or tests for programs.
+* In each folder of the implementation in a specific programming language there is a file * LpAlgorithmsName.md *, which duplicates the theory from 👆 + each programming language has its own syntactic features or implementation subtleties, they are explained in this file.
 
 ---
 <a name="about_klondike"></a> 
