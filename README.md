@@ -75,8 +75,8 @@ Hints mean the implementation of search and sorting algorithms in various progra
 <a name="how_to_use"></a> 
 ### 📃 How to use?
 
-* In the folder of each algorithm there is a * AlgorithmsName.md * file. This file contains all the theory associated with the algorithm, useful links and examples or tests for programs.
-* In each folder of the implementation in a specific programming language there is a file * LpAlgorithmsName.md *, which duplicates the theory from 👆 + each programming language has its own syntactic features or implementation subtleties, they are explained in this file.
+* In the folder of each algorithm there is a *AlgorithmsName.md* file. This file contains all the theory associated with the algorithm, useful links and examples or tests for programs.
+* In each folder of the implementation in a specific programming language there is a file *LpAlgorithmsName.md*, which duplicates the theory from 👆 + each programming language has its own syntactic features or implementation subtleties, they are explained in this file.
 
 ---
 <a name="about_klondike"></a> 
