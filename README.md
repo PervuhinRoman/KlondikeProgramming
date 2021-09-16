@@ -62,10 +62,7 @@
 <a name="about_project"></a> 
 **en**
 
-
-This project, or rather the repository, is intended for people who study programming at school, university, etc. Or even for those “shabby rolls” who already work as programmers, but somehow need a hint.
-
-Hints mean the implementation of search and sorting algorithms in various programming languages, such as Java, Python, C ++, C #. In addition to the algorithms themselves and their commented-out code, there is documentation for each of them that will help you deal with the difficult moments of the implementation code.
+🔥 This repository is intended for people who study programming at school, university, etc. or just for those who need a hint 📄 on some algorithm.
 
 ---
 
