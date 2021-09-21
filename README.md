@@ -94,10 +94,10 @@ Sources:
 ### 📫 Suggest your algorithms, contact us for cooperation, feedback, suggestions, just write :)
 
 
-  * VK: [Первухин Роман] (https://vk.com/id469773080)
+  * VK: [Первухин Роман](https://vk.com/id469773080)
   * Telegram: @ Klim5198
-  * Twitter: [@PervuhinRoman] (https://twitter.com/PervuhinRoman)
-  * Instagram: [pervuhin_roman] (https://www.instagram.com/pervuhin_roman)
+  * Twitter: [@PervuhinRoman](https://twitter.com/PervuhinRoman)
+  * Instagram: [pervuhin_roman](https://www.instagram.com/pervuhin_roman)
   * Email: rg.pervuhin5198@gmail.com
 
 ---
