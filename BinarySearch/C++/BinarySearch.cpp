@@ -4,13 +4,13 @@ using namespace std;
 
 void BinSearch(int arr[], int number, int N)
 {
-	int low = 0;                                       // ãðàíèöû ðàññìàòðèâàåìîãî ïðîìåæóòêà ìàññèâà 
+	int low = 0;                                       
   	int high = N;
 
-  	while(low < high - 1) {                            // ïîêà ñóùåñòâóåò ðàññìàòðèâàåìûé ïðîìåæóòîê
-    	int mid = (low + high) / 2;                    // èíäåêñ ñðåäíåãî ýëåìåíòà ðàññìàòðèâàåìîãî ïðîìåæóòêà ìàññèâà
+  	while(low < high - 1) {                           
+    	int mid = (low + high) / 2;                    
     	
-    	if(number < arr[mid])                          // ñóæàåì ãðàíèöû ðàññìàòðèâàåìîãî ïðîìåæóòêà ìàññèâà
+    	if(number < arr[mid])                         
 		{
       		high = mid;
     	} 
@@ -20,7 +20,7 @@ void BinSearch(int arr[], int number, int N)
     	}
   	}
    	
-  	if(arr[low] == number) {                           // åñëè number íàéäåíà, òî âûâîäèì èíäåêñ
+  	if(arr[low] == number) {                          
     	cout << "arr[" << low << "] = " << number;
   	} 
   	else 
@@ -31,15 +31,15 @@ void BinSearch(int arr[], int number, int N)
 
 int main() {
   	int N, number; 
-	cin >> N;                                          // ââîäèì ÷èñëî ýëåìåíòîâ ìàññèâà
+	cin >> N;                                        
 
 	int arr[N];
 
-	for(int i = 0; i < N; i++) {                       // ââîäèì ìàññèâ
+	for(int i = 0; i < N; i++) {                       
 		cin >> arr[i];
 	}
 
-	cin >> number;                                     // ÷èñëî, êîòîðîå íåîáõîäèìî íàéòè â ìàññèâå
+	cin >> number;                                     
 
 	BinSearch(arr, number, N);
 }
